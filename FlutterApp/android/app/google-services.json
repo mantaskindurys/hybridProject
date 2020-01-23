@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124127470916",
+    "firebase_url": "https://hybrid-2fb84.firebaseio.com",
+    "project_id": "hybrid-2fb84",
+    "storage_bucket": "hybrid-2fb84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124127470916:android:2b0736508781fc18a0e311",
+        "android_client_info": {
+          "package_name": "com.example.hybridapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124127470916-rd0flsf6rkir9n04p887s1gktp7pfp4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqjCyNpxVUZSBfcFK20e69JisSPSJkW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124127470916-rd0flsf6rkir9n04p887s1gktp7pfp4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124127470916-t9d2qa3qopj2i6gp1icvat3djpec93gr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hybridapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
